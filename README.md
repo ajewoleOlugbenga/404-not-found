@@ -2,6 +2,9 @@
 
 Welcome to our React 404 Page Not Found template! This page has been designed using React to provide a seamless and user-friendly experience for visitors encountering missing or broken links on our website. Our focus on responsive design ensures that users across various devices and screen sizes will have a consistent and visually appealing experience.
 
+https://404-not-found-coral-gamma.vercel.app/
+
+
 ## Features
 
 - **Responsive Layout:** Our 404 page is built with responsive design principles in mind. It will adapt to different screen sizes, including desktops, laptops, tablets, and smartphones. The layout and elements will adjust automatically, ensuring that the content remains easily accessible and readable.
